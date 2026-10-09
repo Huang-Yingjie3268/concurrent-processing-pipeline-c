@@ -1,0 +1,8 @@
+/pipeline
+/pipeline.exe
+*.o
+*.core
+*.stackdump
+core
+__pycache__/
+*.pyc
